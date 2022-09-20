@@ -1,4 +1,4 @@
-# Auto-AI
+# Name-of-your-application
 
 ## Overview 📃
 
